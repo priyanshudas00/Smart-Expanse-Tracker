@@ -1,0 +1,79 @@
+[
+  {
+    "title": "A",
+    "amount": 10.0,
+    "category": "A",
+    "date": "2026-07-31",
+    "id": 1
+  },
+  {
+    "title": "B",
+    "amount": 20.0,
+    "category": "B",
+    "date": "2026-07-31",
+    "id": 2
+  },
+  {
+    "title": "Coffee",
+    "amount": 3.0,
+    "category": "Food",
+    "date": "2026-07-31",
+    "id": 4
+  },
+  {
+    "title": "Uber",
+    "amount": 20.0,
+    "category": "Transport",
+    "date": "2026-07-31",
+    "id": 5
+  },
+  {
+    "title": "Lunch",
+    "amount": 12.5,
+    "category": "Food",
+    "date": "2026-07-31",
+    "id": 6
+  },
+  {
+    "title": "Coffee",
+    "amount": 3.0,
+    "category": "Food",
+    "date": "2026-07-31",
+    "id": 7
+  },
+  {
+    "title": "Uber",
+    "amount": 20.0,
+    "category": "Transport",
+    "date": "2026-07-31",
+    "id": 8
+  },
+  {
+    "title": "A",
+    "amount": 10.0,
+    "category": "A",
+    "date": "2026-07-31",
+    "id": 1
+  },
+  {
+    "title": "B",
+    "amount": 20.0,
+    "category": "B",
+    "date": "2026-07-31",
+    "id": 2
+  },
+  {
+    "title": "string",
+    "amount": 1.0,
+    "category": "string",
+    "date": "2026-07-31",
+    "id": 9
+  },
+  {
+    "title": "string",
+    "amount": 1.0,
+    "category": "string",
+    "date": "2026-07-31",
+    "id": 10
+  }
+]
